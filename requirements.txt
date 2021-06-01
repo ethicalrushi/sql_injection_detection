@@ -205,7 +205,7 @@ traitlets==4.3.2
 Twisted==18.9.0
 typed-ast==1.1.0
 unicodecsv==0.14.1
-urllib3==1.24.1
+urllib3==1.26.5
 virtualenv==16.1.0
 virtualenv-clone==0.4.0
 virtualenvwrapper==4.8.2
